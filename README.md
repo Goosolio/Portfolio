@@ -53,6 +53,7 @@ Unfortunately, this portfolio is designed for a certain circle of employers, so 
 
 Работа с данными, используя Pandas, Seaborn и частично Matplotlib.
 
-Первичные данные берутся из файла в формате CSV (есть в директории проекта).
+Первичные данные берутся из файла в формате CSV.
+В этот раз ДатаСет слишком большой, предлагаю скачать его по ссылке - https://drive.google.com/file/d/1SKdjvP79gZw04JGghFxAHTkdpzk4s2t4/view
 
 ----

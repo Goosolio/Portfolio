@@ -69,6 +69,7 @@ Unfortunately, this portfolio is designed for a certain circle of employers, so 
 Первичные данные берутся на сайте Федерального Резерва Сент Луиса через их API, который можно получить бесплатно у них на сайте.
 Все подробности и ссылки указаны в файле, но я их продублирую.
 [FRED](https://fred.stlouisfed.org/)
+
 [Python API for Federal Reserve Economic Data](https://pypi.org/project/fredapi/)
 
 

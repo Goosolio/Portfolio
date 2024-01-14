@@ -1,24 +1,24 @@
 ### Примеры работы приложения
 
-![Первый]()
+![Первый](https://github.com/Goosolio/Portfolio/blob/main/Project%205/DB1.png)
 
 
-![Второй]()
+![Второй](https://github.com/Goosolio/Portfolio/blob/main/Project%205/DB2.png)
 
 
-![Третий]()
+![Третий](https://github.com/Goosolio/Portfolio/blob/main/Project%205/DB3.png)
 
 
-![Четвертый]()
+![Четвертый](https://github.com/Goosolio/Portfolio/blob/main/Project%205/DB4.png)
 
 
-![Пятый]()
+![Пятый](https://github.com/Goosolio/Portfolio/blob/main/Project%205/DB5.png)
 
 
-![Шестой]()
+![Шестой](https://github.com/Goosolio/Portfolio/blob/main/Project%205/DB6.png)
 
 
-![Седьмой]()
+![Седьмой](https://github.com/Goosolio/Portfolio/blob/main/Project%205/DB7.png)
 
 
-![Восьмой]()
+![Восьмой](https://github.com/Goosolio/Portfolio/blob/main/Project%205/DB8.png)

@@ -116,3 +116,8 @@ Unfortunately, this portfolio is designed for a certain circle of employers, so 
 
 
 ## Проект 7
+
+Пример дэшборда.
+В этом проекте будут использоваться Dash + SQLite3 + Pandas + Plotly + Random.
+
+

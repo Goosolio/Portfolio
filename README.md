@@ -113,3 +113,6 @@ Unfortunately, this portfolio is designed for a certain circle of employers, so 
 Данная база будет использоваться для следующего проекта.
 
 Все комментарии к действиям есть в блокноте.
+
+
+## Проект 7

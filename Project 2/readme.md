@@ -1,12 +1,12 @@
 ### На Гитхабе есть некоторые трудности в размещении интерактивных графиков, поэтому отражу графики из проекта отдельно.
 
-![Первый график](https://github.com/Goosolio/Portfolio/blob/main/Project%202/graph_1.png)
+![](https://github.com/Goosolio/Portfolio/blob/main/Project%202/games1.png)
 
 
-![Пироговые диаграммы](https://github.com/Goosolio/Portfolio/blob/main/Project%202/pies.png)
+![](https://github.com/Goosolio/Portfolio/blob/main/Project%202/games2.png)
 
 
-![Второй график](https://github.com/Goosolio/Portfolio/blob/main/Project%202/graph_2.png)
+![](https://github.com/Goosolio/Portfolio/blob/main/Project%202/games3.png)
 
 
-![Третий график](https://github.com/Goosolio/Portfolio/blob/main/Project%202/graph_3.png)
+![](https://github.com/Goosolio/Portfolio/blob/main/Project%202/games4.png)

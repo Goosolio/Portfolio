@@ -1,6 +1,3 @@
-### На Гитхабе в блоноте нельзя посмотреть интерактивные графики, вам придется запустить файл локально, чтобы их увидеть
-
-
 ![](https://github.com/Goosolio/Portfolio/blob/main/Project%207/music1.png) 
 
 ![](https://github.com/Goosolio/Portfolio/blob/main/Project%207/music2.png) 
